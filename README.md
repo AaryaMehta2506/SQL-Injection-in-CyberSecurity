@@ -21,3 +21,9 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP (or Node.js, Python, or any other suitable backend language)
 Database: MySQL or SQLite
 Security Measures: Prepared Statements, Parameterized Queries, Input Validation
+
+Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
